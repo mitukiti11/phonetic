@@ -1,0 +1,20 @@
+{
+    "name": "mitukiti11/phonetic",
+    "description": "NATO phonetic code",
+    "type": "library",
+    "license": "no license",
+    "authors": [
+        {
+            "name": "mitukiti11",
+            "email": "buffalo.rage@gmail.com"
+        }
+    ],
+    "require": {}
+    
+    
+    , "autoload": {
+        "psr-4": {
+            "Phonetic\\": "src/" 
+        }
+    }
+}
