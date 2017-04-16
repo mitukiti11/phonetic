@@ -45,7 +45,7 @@
     }
 
 
-    private class NUMBER {
+    public class NUMBER {
         const ZERO    = 0;
         const ONE     = 1;
         const TWO     = 2;
@@ -58,7 +58,7 @@
         const NINE    = 9;
     }
 
-    private class CODE
+    public class CODE
     {
         const A = "ALPHA";
         const B = "BRAVO";
